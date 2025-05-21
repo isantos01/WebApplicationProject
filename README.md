@@ -1,2 +1,1 @@
-# WebApplicationProject
-Web Application Group Project
+# Web Application Project Group Project
