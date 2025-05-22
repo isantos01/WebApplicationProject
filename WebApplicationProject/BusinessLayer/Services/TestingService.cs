@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ModelLayer.DTO;
 
-namespace BusinessLayer
+namespace BusinessLayer.Services
 {
-    public class Class1
+    internal class TestingService
     {
+        public TestingService() { }
     }
 }
